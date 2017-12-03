@@ -35,8 +35,8 @@ A toy example with a class that creates Strings from Proxy types:
 
  A toy example where an Integer is computed from a Proxy type:
 
-    {-\# Language DataKinds \#-}
-    {-\# Language KindSignatures \#-}
+    {-# Language DataKinds #-}
+    {-# Language KindSignatures #-}
     import GHC.TypeLits
     import Data.Kind (Type)
     import Data.Proxy
