@@ -5,7 +5,7 @@ This module provides functions to map Proxy types.
     p1 :: Proxy (Either Int Bool)
     p1 = Proxy
   
-    p2 = proxy1of2 p2
+    p2 = proxy1of2 p1
   
     ghci> :t p2
     p2 :: Proxy Int

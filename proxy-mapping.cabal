@@ -1,5 +1,5 @@
 name:                proxy-mapping
-version:             0.1.0.0
+version:             0.1.0.1
 synopsis:            Mapping of Proxy Types
 description:         A small collection of functions to map Proxy types
 license:             BSD3
